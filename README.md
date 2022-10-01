@@ -43,7 +43,7 @@
 <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karangorania&theme=tokyonight&utcOffset=8" height="192px"/></a>
 
 <details> 
- ## <summary>Touch Me 💻</summary>
+<summary>Touch Me 💻</summary>
   <br/>
     <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karangorania&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
   <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangorania&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
