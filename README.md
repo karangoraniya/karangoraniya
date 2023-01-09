@@ -46,8 +46,8 @@
   
   <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangorania&theme=tokyonight" height="192px"/></a>
 
-## Snaky
+<!-- ## Snaky
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
+</p> -->
