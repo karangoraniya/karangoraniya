@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Solidity, Ethereum, Near<br>👯 I’m looking to collaborate on sexy ⚡️ projects<br>🌱 I’m currently learning New Technologies ine web3<br>💬 Ask me about Blockchain, Solidity, Web3 related<br>⚡ Fun fact The Future Will Be Decentralised
+🔭 I’m currently working on Solidity, Ethereum, Near<br>👯 I’m looking to collaborate on sexy ⚡️ projects<br>🌱 I’m currently learning New Technologies in web3<br>💬 Ask me about Blockchain, Solidity, Web3 related<br>⚡ Fun fact The Future Will Be Decentralised
 
 ## 🌐 Socials:
 
