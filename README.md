@@ -37,14 +37,14 @@
 <!-- Two div -->
 
   <br/>
-    <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karangorania&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-  <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangorania&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
+    <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karangoraniya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangoraniya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
   <br/>
   
-  <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=karangorania&theme=tokyonight&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=karangoraniya&theme=tokyonight&hide_border=false" height="192px"/></a>
   
   
-  <a href="https://github.com/karangorania/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangorania&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangoraniya&theme=tokyonight" height="192px"/></a>
 
 <!-- ## Snaky
 
