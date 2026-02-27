@@ -1,53 +1,95 @@
-![Header](https://bafybeihtylicpfip52fpqxgtx3pgdm7m72slgvwda5serqahcxq2xvv7qy.ipfs.w3s.link/Final%20scr.png)
+<div align="center">
 
-<!--### Hi there 👋 -->
+```
+K A R A N   G O R A N I Y A
+```
 
-# 💫 About Me:
+**Blockchain Engineer · Sui Move · Rust · Web3 Infrastructure**
 
-🔭 I’m currently working on Solidity, Ethereum, SUI <br>👯 I’m looking to collaborate on innovative ⚡️ projects<br>🌱 I’m currently learning SUI Move<br>💬 Ask me about Blockchain, Solidity, Web3 related<br>⚡ Fun fact The Future Will Be Decentralised
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/GORANIAKARAN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/KaranGoraniya)
 
-## 🌐 Socials:
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KaranGoraniya)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19672400)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GORANIAKARAN)
+---
 
-# 💻 Tech Stack:
+I build protocol-level infrastructure for Web3. Most of my work lives at the intersection of distributed systems, cryptography, and developer tooling things that other builders depend on to ship their own products. I've also built consumer-facing products: wallets, payments, and onchain applications used by real people.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+Currently deep in ZK, Privacy, AI, and Substrate - learning how blockchains are built from the inside out.
 
+---
+
+### Right now
+
+- **Waldrop** -> move files from any Web2 storage (S3, Dropbox, Drive) to Walrus on Sui. 
+- **Fomly** -> decentralized alternative to Typeform.
+- **KisanSteer** — GPS guidance for tractors. Arduino firmware + Rust edge server + Next.js. Field data stored on Sui via Move contracts. Built from watching farmers navigate fields by hand.
+
+---
+
+### Things I've built
+
+- **[SuiLearn](https://suilearn.io)** - developer infrastructure for the Sui ecosystem. Used by devs across the network
+  - [gRPC Playground](https://grpc.suilearn.io) - explore every gRPC method interactively
+  - [RPC Playground](https://rpc.suilearn.io) — REST API sandbox
+  - [Faucet](https://faucet.suilearn.io) — testnet tokens, no friction
+  - [Transaction Explorer](https://tx.suilearn.io) — on-chain tx viewer
+  - [Wallet Utility](https://wallet.suilearn.io) — wallet creation tools
+
+- **[Nimora](https://nimora.app)** — a Sui wallet built around passkeys. No seed phrases, no extensions, just your device. 
+  - [Web](https://app.nimora.app)
+  - [Chrome Extension](https://chromewebstore.google.com/detail/nimora-wallet/eknjljffljhnacdbjaofblafoenecaai)
+
+---
+
+### Recognition
+
+- 🥇 1st place — EasyA × Consensus Hong Kong Hackathon 2026 · [CoinDesk coverage →](https://www.coindesk.com/tech/2026/02/12/ai-powered-agents-dominate-the-easya-x-consensus-hong-kong-hackathon)
+
+---
+
+### Writing
+
+Things I've learned and written down so I don't forget:
+
+- [Polkadot Architecture](https://roadtoweb3.notion.site/PolkaDot-a418464ec046442f945581849ab22b91) — Relay Chain, parachains, XCM, consensus, coretime
+- [The ETH Merge](https://roadtoweb3.notion.so/ETH-Merge-fe0b5d76debd4bb1a6aecae969c4325f) — PoW → PoS transition, what actually changed and what didn't
+
+
+---
+
+### Stack
+
+![Sui Move](https://img.shields.io/badge/Sui_Move-4DA2FF?style=flat&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Substrate](https://img.shields.io/badge/Substrate-FF1864?style=flat&logoColor=white)
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=karangoraniya&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" height="165" />
 &nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangoraniya&theme=github_dark" height="165" />
+
+</div>
+
+<!-- <div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karangoraniya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff" height="165" />
 &nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karangoraniya&theme=dark&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" height="165" />
+</div> -->
+<br/>
 
-## Github Stats 📊
+<!-- <img src="https://streak-stats.demolab.com/?user=karangoraniya&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" height="165" /> -->
 
-<!-- Two div -->
 
-  <br/>
-    <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karangoraniya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangoraniya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
-  <br/>
-  
-  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=karangoraniya&theme=tokyonight&hide_border=false" height="192px"/></a>
-  
-  
-  <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangoraniya&theme=tokyonight" height="192px"/></a>
 
-<!-- ## Snaky
+<!-- <a href="https://github.com/karangoraniya/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangoraniya&theme=tokyonight" height="192px"/></a> -->
 
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p> -->
+</div>
