@@ -30,6 +30,7 @@ Currently deep in ZK, Privacy, AI, and Substrate - learning how blockchains are 
 ### Things I've built
 
 - **[SuiLearn](https://suilearn.io)** - developer infrastructure for the Sui ecosystem. Used by devs across the network
+  - [SUI Contract Playground](https://playground.suilearn.io) - Explore, build, and interact with Move smart contracts on Sui
   - [gRPC Playground](https://grpc.suilearn.io) - explore every gRPC method interactively
   - [RPC Playground](https://rpc.suilearn.io) — REST API sandbox
   - [Faucet](https://faucet.suilearn.io) — testnet tokens, no friction
