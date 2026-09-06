@@ -15,31 +15,40 @@ K A R A N   G O R A N I Y A
 
 I build protocol-level infrastructure for Web3. Most of my work lives at the intersection of distributed systems, cryptography, and developer tooling things that other builders depend on to ship their own products. I've also built consumer-facing products: wallets, payments, and onchain applications used by real people.
 
-Currently deep in ZK, Privacy, AI, and Substrate - learning how blockchains are built from the inside out.
+Currently focused on ZK, privacy, AI, Cyber and blockchain infrastructure - building systems from the protocol layer up.
 
 ---
 
 ### Right now
 
-- **Waldrop** -> move files from any Web2 storage (S3, Dropbox, Drive) to Walrus on Sui. 
-- **Fomly** -> decentralized alternative to Typeform.
-- **KisanSteer** — GPS guidance for tractors. Arduino firmware + Rust edge server + Next.js. Field data stored on Sui via Move contracts. Built from watching farmers navigate fields by hand.
+- **KisanSteer** - GPS guidance for tractors. Arduino firmware + Rust edge server + Next.js. Field data stored on Sui via Move contracts. Built from watching farmers navigate fields by hand.
 
 ---
 
 ### Things I've built
 
+- **[Waldrop](https://waldrop.xyz/)** - Move files from any Web2 storage (S3, Dropbox, Drive) to Walrus on Sui.
+  - [App](https://app.waldrop.xyz/)
+
+- **[Waldrive](https://waldrive.xyz/)** - Decentralized, encrypted file storage built on Sui, Walrus, and Seal.
+  - [App](https://app.waldrive.xyz/)
+
 - **[SuiLearn](https://suilearn.io)** - developer infrastructure for the Sui ecosystem. Used by devs across the network
   - [SUI Contract Playground](https://playground.suilearn.io) - Explore, build, and interact with Move smart contracts on Sui
   - [gRPC Playground](https://grpc.suilearn.io) - explore every gRPC method interactively
-  - [RPC Playground](https://rpc.suilearn.io) — REST API sandbox
-  - [Faucet](https://faucet.suilearn.io) — testnet tokens, no friction
-  - [Transaction Explorer](https://tx.suilearn.io) — on-chain tx viewer
-  - [Wallet Utility](https://wallet.suilearn.io) — wallet creation tools
+  - [Walrus Scan](https://blob.suilearn.io/) - explore and inspect Walrus blobs
+  - [Faucet](https://faucet.suilearn.io) - testnet tokens, **5K+ MAU**
+  - [Transaction Explorer](https://tx.suilearn.io) - on-chain tx viewer
+  - [Wallet Utility](https://wallet.suilearn.io) - wallet creation tools
 
 - **[Nimora](https://nimora.app)** — a Sui wallet built around passkeys. No seed phrases, no extensions, just your device. 
   - [Web](https://app.nimora.app)
   - [Chrome Extension](https://chromewebstore.google.com/detail/nimora-wallet/eknjljffljhnacdbjaofblafoenecaai)
+
+- **[Telumina](https://tellumina.com/)** - a Stellar wallet and payments application.
+  - [App](https://app.telumina.com/)
+
+- **[Fomly](https://fomly.xyz)** - decentralized alternative to Typeform on SUI & Walrus.
 
 ---
 
